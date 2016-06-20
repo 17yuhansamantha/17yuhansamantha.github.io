@@ -48,12 +48,12 @@ body {
 }
 .button1 {
     background-color: rgb(255,255,255,0.0);
-    color: black;
+    color: rgb(255,255,255,0.0);
     border: 2px solid white;
 }
 
 .button1:hover {
     background-color: rgb(255,255,255,0.3);
-    color: white;
+    color: rgb(255,255,255,0.0);
 }
 }
