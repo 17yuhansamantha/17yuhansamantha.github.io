@@ -8,6 +8,16 @@ html, body {
   color: white;
 }
 
+.button {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background-color: white; /* Green */
+    color: gray;
+}
+
 body {
   font-family: 'Walkway', sans-serif;
   background-image: url("https://fdrfreebies.s3-us-west-1.amazonaws.com/wp-content/uploads/01_free-soft-blurry-background.jpg");
