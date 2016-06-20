@@ -1,9 +1,10 @@
 html, body {
-  min-height: 100%;
-  display: flex;
-  flex-direction: column;
+  height: 90%;
+  margin = 0;
+  text-align: center;
   font-weight: 300;
   line-height: 1.5;
+  width: 100%;
   color: white;
 }
 
@@ -24,4 +25,10 @@ body {
 .page-description {
   text-align: center center;
   color: white;
+}
+
+.head {
+  padding: 250px 0;
+	margin: 30px;
+}
 }
