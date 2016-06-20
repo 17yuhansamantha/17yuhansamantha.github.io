@@ -9,7 +9,7 @@ html, body {
 }
 
 body {
-  font-family: san-serif;
+  font-family: sans-serif;
   background-image: url("background.jpg");
   background-position: center top;
   background-size: cover;
